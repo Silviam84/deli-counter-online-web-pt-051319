@@ -3,4 +3,4 @@ def Katz_deli = []
 
 puts name (Nancy, Sammy, Linsey, Daisy)
 
-=> name ("1")
+=> name ("1" )
